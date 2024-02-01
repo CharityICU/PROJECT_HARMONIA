@@ -1,4 +1,4 @@
-"Harmonia: Collaborative Impact Network for Social Good"
+Harmonia: Collaborative Impact Network for Social Good
 
 Harmonia is a pioneering initiative that transcends boundaries to unite NGOs, philanthropists, and charities in a powerful alliance for positive global impact. Just as celestial bodies harmonize to create a balanced universe, Harmonia aspires to bring together diverse entities working towards a common goal—the betterment of humanity.
 

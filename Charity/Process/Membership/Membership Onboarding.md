@@ -1,4 +1,4 @@
-1. **Transparent Membership Criteria:**
+1. **Transparent [[Membership Criteria]]:**
     
     - Clearly define the criteria for membership, emphasizing alignment with Harmonia's mission and commitment to collaborative action.
     - Examples of criteria could include a demonstrated track record of positive impact, a commitment to transparency, and a willingness to actively engage with other members.
