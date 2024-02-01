@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "747375673675310d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d901fc009fe2a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a82547071a7eb66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e409b7688fad8496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f893e31542041799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ec59435b48efb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1058941f9d42439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff76e28464db31a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f894f797485983e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6701b41687c2fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Harmonia/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b32297b3c7b6cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charity/Process/Platform Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "093187af7d70676b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4616ba18d3f75a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c82fe9062044d02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18ec2c8cbca47f63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b83bf8e3998c18ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eae8b8cdd63ba08a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d71633f2fd59c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242177820ec31338",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Charity/Process/Platform Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16a2bd04434e8012",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Charity/Process/Platform Development.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f595a878315903d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5027040bd6dfdc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Charity/Process/Platform Development.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b32297b3c7b6cce",
+  "lastOpenFiles": [
+    "Charity/Harmonia/Overview.md",
+    "Charity/Harmonia/Synopsis.md",
+    "Charity/Process/Membership Onboarding.md",
+    "Charity/Process/Metrics and Impact Measurement.md",
+    "Charity/Process/Platform Development.md",
+    "Charity/Process/Resource Pooling.md",
+    "Charity/Process/Advocacy and Awareness.md",
+    "Charity/Process/Global Network Building.md",
+    "Charity/Process/Innovation Hub.md",
+    "Charity/Process/Cross-Sector Collaboration.md",
+    "Charity/Features.md",
+    "Charity/Summary.md",
+    "Partners/Inez Vinuales.md",
+    "Partners/Krysteen Savane.md",
+    "Partners/Maurice Gaye.md",
+    "Partners/Ikenna Nnaji.md",
+    "Partners/Orgs/TribeLike/Overview.md",
+    "Partners/NGOs",
+    "Partners/Untitled.md",
+    "Partners/Orgs",
+    "Partners/Orgs/Tom Musau (MTM Advocates).md",
+    "Partners/Overview.md",
+    "Partners/Bee.md",
+    "Partners/Orgs/TribeLike",
+    "Partners/NGOs/Anno's one fine day/Departments/Activities/Visual arts.md",
+    "Partners/NGOs/Anno's one fine day/Departments/Activities/Reading Club.md",
+    "Partners/NGOs/Anno's one fine day/Departments/Activities/Music.md",
+    "Partners/NGOs/Anno's one fine day/Departments/Activities/Fashion.md",
+    "Partners/NGOs/Anno's one fine day/Departments/Activities/Drama.md",
+    "Partners/NGOs/Anno's one fine day/Departments/Activities",
+    "Partners/NGOs/Anno's one fine day/Departments",
+    "Partners/NGOs/TIA Creative/Facilities",
+    "Partners/NGOs/TIA Creative",
+    "Partners/NGOs/Anno's one fine day",
+    "Partners",
+    "Clients/TIA Creative/Facilities"
+  ]
+}
