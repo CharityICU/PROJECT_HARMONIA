@@ -20,118 +20,31 @@
             }
           },
           {
-            "id": "e409b7688fad8496",
+            "id": "f487c00cdbb724ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charity/Harmonia/Overview.md",
+                "file": "Temp/Perpetual Motion/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f893e31542041799",
+            "id": "9ecd4399176316d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charity/Harmonia/Overview.md",
+                "file": "Charity/Harmonia/DAOs.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1ec59435b48efb20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charity/Harmonia/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1058941f9d42439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charity/Harmonia/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff76e28464db31a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charity/Harmonia/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f894f797485983e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charity/Harmonia/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6701b41687c2fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charity/Harmonia/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b32297b3c7b6cce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charity/Process/Advocacy and Awareness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f726853ecea0575",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas",
-                "viewState": {
-                  "x": -19.63589719854821,
-                  "y": 208.63140773457496,
-                  "zoom": -0.4001189923286438
-                }
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas",
+                "file": "Charity/Harmonia/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas",
+                "file": "Charity/Harmonia/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas"
+                "file": "Charity/Harmonia/Overview.md"
               }
             }
           }
@@ -258,13 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f726853ecea0575",
+  "active": "2c82fe9062044d02",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Charity/Process/Advocacy and Awareness/Untitled.canvas",
-    "Charity/Process/Advocacy and Awareness.md",
-    "Charity/Process/Advocacy and Awareness",
+    "Charity/Summary.md",
+    "Charity/Harmonia/DAOs.md",
+    "Charity/Harmonia/RND.md",
     "Charity/Harmonia/Overview.md",
+    "Temp/Perpetual Motion/Nomad stack.md",
+    "Temp/Perpetual Motion/Overview.md",
+    "Temp/ProDG/Chart.md",
+    "Temp/Perpetual Motion/TechStack.md",
+    "Temp/ProDG",
+    "Temp/world-map.gif",
+    "Temp/Perpetual Motion",
+    "Temp",
+    "Charity/Process/Advocacy and Awareness.md",
+    "Charity/Process/Advocacy and Awareness/Untitled.canvas",
+    "Untitled.md",
+    "Charity/Process/Advocacy and Awareness",
     "Charity/Process/Platform Development.md",
     "Charity/Harmonia/Synopsis.md",
     "Charity/Process/Membership Onboarding.md",
@@ -274,7 +198,6 @@
     "Charity/Process/Innovation Hub.md",
     "Charity/Process/Cross-Sector Collaboration.md",
     "Charity/Features.md",
-    "Charity/Summary.md",
     "Partners/Inez Vinuales.md",
     "Partners/Krysteen Savane.md",
     "Partners/Maurice Gaye.md",
@@ -284,17 +207,9 @@
     "Partners/Untitled.md",
     "Partners/Orgs",
     "Partners/Orgs/Tom Musau (MTM Advocates).md",
-    "Partners/Overview.md",
-    "Partners/Bee.md",
     "Partners/Orgs/TribeLike",
-    "Partners/NGOs/Anno's one fine day/Departments/Activities/Visual arts.md",
-    "Partners/NGOs/Anno's one fine day/Departments/Activities/Reading Club.md",
-    "Partners/NGOs/Anno's one fine day/Departments/Activities/Music.md",
     "Partners/NGOs/Anno's one fine day/Departments/Activities",
     "Partners/NGOs/Anno's one fine day/Departments",
-    "Partners/NGOs/TIA Creative/Facilities",
-    "Partners/NGOs/TIA Creative",
-    "Partners/NGOs/Anno's one fine day",
-    "Partners"
+    "Partners/NGOs/TIA Creative/Facilities"
   ]
 }
