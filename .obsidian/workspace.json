@@ -109,14 +109,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charity/Process/Platform Development.md",
+                "file": "Charity/Process/Advocacy and Awareness.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f726853ecea0575",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas",
+                "viewState": {
+                  "x": -19.63589719854821,
+                  "y": 208.63140773457496,
+                  "zoom": -0.4001189923286438
+                }
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charity/Process/Platform Development.md",
+                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charity/Process/Platform Development.md",
+                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charity/Process/Platform Development.md"
+                "file": "Charity/Process/Advocacy and Awareness/Untitled.canvas"
               }
             }
           }
@@ -243,15 +258,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b32297b3c7b6cce",
+  "active": "2f726853ecea0575",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Charity/Process/Advocacy and Awareness/Untitled.canvas",
+    "Charity/Process/Advocacy and Awareness.md",
+    "Charity/Process/Advocacy and Awareness",
     "Charity/Harmonia/Overview.md",
+    "Charity/Process/Platform Development.md",
     "Charity/Harmonia/Synopsis.md",
     "Charity/Process/Membership Onboarding.md",
     "Charity/Process/Metrics and Impact Measurement.md",
-    "Charity/Process/Platform Development.md",
     "Charity/Process/Resource Pooling.md",
-    "Charity/Process/Advocacy and Awareness.md",
     "Charity/Process/Global Network Building.md",
     "Charity/Process/Innovation Hub.md",
     "Charity/Process/Cross-Sector Collaboration.md",
@@ -272,14 +290,11 @@
     "Partners/NGOs/Anno's one fine day/Departments/Activities/Visual arts.md",
     "Partners/NGOs/Anno's one fine day/Departments/Activities/Reading Club.md",
     "Partners/NGOs/Anno's one fine day/Departments/Activities/Music.md",
-    "Partners/NGOs/Anno's one fine day/Departments/Activities/Fashion.md",
-    "Partners/NGOs/Anno's one fine day/Departments/Activities/Drama.md",
     "Partners/NGOs/Anno's one fine day/Departments/Activities",
     "Partners/NGOs/Anno's one fine day/Departments",
     "Partners/NGOs/TIA Creative/Facilities",
     "Partners/NGOs/TIA Creative",
     "Partners/NGOs/Anno's one fine day",
-    "Partners",
-    "Clients/TIA Creative/Facilities"
+    "Partners"
   ]
 }

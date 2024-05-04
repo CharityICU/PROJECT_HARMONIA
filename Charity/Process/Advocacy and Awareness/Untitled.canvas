@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b0cca66951130198","x":6,"y":-164,"width":250,"height":60,"type":"text","text":"Test"},
+		{"id":"a6a2c23690d2091d","x":-193,"y":368,"width":400,"height":400,"type":"link","url":"https://www.weforum.org/"}
+	],
+	"edges":[
+		{"id":"f20637ea6d1572ed","fromNode":"a6a2c23690d2091d","fromSide":"right","toNode":"b0cca66951130198","toSide":"bottom"}
+	]
+}
