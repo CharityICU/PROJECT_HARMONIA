@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charity/Harmonia/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f487c00cdbb724ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/Perpetual Motion/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ecd4399176316d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charity/Harmonia/DAOs.md",
+                "file": "SCC/Social Capital Conversion..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charity/Harmonia/Overview.md",
+                "file": "SCC/Social Capital Conversion..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charity/Harmonia/Overview.md",
+                "file": "SCC/Social Capital Conversion..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charity/Harmonia/Overview.md"
+                "file": "SCC/Social Capital Conversion..md"
               }
             }
           }
@@ -171,45 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c82fe9062044d02",
+  "active": "6a82547071a7eb66",
   "lastOpenFiles": [
-    "Charity/Summary.md",
+    "Charity/Harmonia/Synopsis.md",
     "Charity/Harmonia/DAOs.md",
     "Charity/Harmonia/RND.md",
+    "Charity/Features.md",
+    "Charity/Summary.md",
+    "SCC/Social Capital Conversion..md",
+    "Numbi",
+    "Numbi/Numbi..md",
     "Charity/Harmonia/Overview.md",
-    "Temp/Perpetual Motion/Nomad stack.md",
-    "Temp/Perpetual Motion/Overview.md",
+    "SCC",
     "Temp/ProDG/Chart.md",
-    "Temp/Perpetual Motion/TechStack.md",
-    "Temp/ProDG",
     "Temp/world-map.gif",
+    "Temp/Perpetual Motion/TechStack.md",
+    "Temp/Perpetual Motion/Overview.md",
+    "Temp/Perpetual Motion/Nomad stack.md",
+    "Temp/ProDG",
     "Temp/Perpetual Motion",
     "Temp",
     "Charity/Process/Advocacy and Awareness.md",
     "Charity/Process/Advocacy and Awareness/Untitled.canvas",
-    "Untitled.md",
     "Charity/Process/Advocacy and Awareness",
     "Charity/Process/Platform Development.md",
-    "Charity/Harmonia/Synopsis.md",
     "Charity/Process/Membership Onboarding.md",
     "Charity/Process/Metrics and Impact Measurement.md",
     "Charity/Process/Resource Pooling.md",
     "Charity/Process/Global Network Building.md",
     "Charity/Process/Innovation Hub.md",
     "Charity/Process/Cross-Sector Collaboration.md",
-    "Charity/Features.md",
     "Partners/Inez Vinuales.md",
     "Partners/Krysteen Savane.md",
     "Partners/Maurice Gaye.md",
     "Partners/Ikenna Nnaji.md",
     "Partners/Orgs/TribeLike/Overview.md",
     "Partners/NGOs",
-    "Partners/Untitled.md",
     "Partners/Orgs",
-    "Partners/Orgs/Tom Musau (MTM Advocates).md",
     "Partners/Orgs/TribeLike",
-    "Partners/NGOs/Anno's one fine day/Departments/Activities",
-    "Partners/NGOs/Anno's one fine day/Departments",
-    "Partners/NGOs/TIA Creative/Facilities"
+    "Partners/NGOs/Anno's one fine day/Departments/Activities"
   ]
 }
